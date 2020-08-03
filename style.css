@@ -14,13 +14,13 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
-    height: auto;
+    height: 100vh;
     left: 0px;
     top: 0px;
 }
-.banner {
+/* .banner {
     padding: 175px 0 375px 0;
-}
+} */
 
 .banner h1{
     font-family: Georgia;
@@ -113,7 +113,7 @@ body{
 
 .success-story{
     background: #245852;
-    height: 800px;
+    height: 550px;
 }
 
 .success h1{
@@ -213,12 +213,12 @@ body{
 
 footer{
     margin-top: 250px;
-    height: 400px;
+    height: 350px;
     background: #245852;
     padding: 50px 0;
 }
 footer h2{
-    padding-bottom: 30px;
+    padding-bottom: 25px;
 }
 .footer-list{
     list-style: none;
@@ -232,6 +232,6 @@ footer h2{
 }
 
 footer li{
-    padding-bottom: 30px;
+    padding-bottom: 25px;
 }
 
